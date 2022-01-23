@@ -1,0 +1,9 @@
+
+class Swordsman:
+    SWORDSMAN_COST = None
+    SWORDSMAN_TRAIN = None
+    SWORDSMAN_RANGE = None
+    SWORDSMAN_HIT = None
+    SWORDSMAN_REST = None
+    SWORDSMAN_HEALTH = None
+    SWORDSMAN_SPEED = None
