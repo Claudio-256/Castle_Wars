@@ -1,2 +1,3 @@
 class Castle:
-    INIT_RESOURCES = None
+    def __init__(self):
+        self.INIT_RESOURCES = 50

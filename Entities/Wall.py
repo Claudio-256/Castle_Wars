@@ -1,2 +1,3 @@
 class Wall:
-    WALL_HEALTH = None
+    def __init__(self):
+        self.WALL_HEALTH = 300
